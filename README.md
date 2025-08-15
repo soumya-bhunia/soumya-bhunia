@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Puma Clone Website](https://puma-clone-website.vercel.app/)
 
-- 🌱 I’m currently learning **AI & Cloud Computing**
+- 🌱 I’m currently learning **Back-End Development**
 
 - 📫 How to reach me **soumyabhn@gmail.com**
 
