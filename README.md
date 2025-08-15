@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya-bhunia&label=Profile%20views&color=0e75b6&style=flat" alt="soumya-bhunia" /> </p>
 
-- 🔭 I’m currently working on [Puma Clone Website]([https://soumya-bhunia.github.io/ReelBinge/](https://puma-clone-website.vercel.app/))
+- 🔭 I’m currently working on [Puma Clone Website](https://puma-clone-website.vercel.app/)
 
 - 🌱 I’m currently learning **AI & Cloud Computing**
 
