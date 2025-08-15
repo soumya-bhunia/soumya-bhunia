@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **soumyabhn@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1AZZtFM2P39pHMdnPVKUxhwMua4tedMFx/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1p0c6-5086mfVEuAF-Mw8sQTkOQ9cDcpQ/view?usp=drive_link)
 
 - ⚡ Fun fact **I believe debugging is just a way of making new friends with your code!**
 
